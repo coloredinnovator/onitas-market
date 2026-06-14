@@ -1,63 +1,22 @@
-<div align="right">
-<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://github.com/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/-0d1117?logo=facebook"  width="40" height="30">
-</a>
-<a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/-0d1117?logo=linkedin"  width="40" height="30">
-</a>
-<a target="_blank" href="https://twitter.com/intent/tweet?&url=https://github.com/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution&via=TWITTER-HANDLE" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/-0d1117?logo=twitter" width="40" height="30">
-</a>
-
-</div>
-
 <div align="center">
-  <h2>Enatega Multi Vendor Delivery Management System</h2>
-  <i>A modern and customizable platform for managing online ordering and logistics across industries.</i>
+  <h2>Onitas Market — Multivendor Delivery Platform</h2>
+  <i>A modern, customizable platform for managing online ordering and delivery operations across industries.</i>
  <br/>
 <br />
 </div>
 
 <div align="center">
 
-[![Static Badge](https://img.shields.io/badge/License-MIT-red)](https://github.com/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution/blob/main/LICENSE)
-[![Stars](https://img.shields.io/github/stars/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution.svg)](https://github.com/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution/stargazers)
-[![Forks](https://img.shields.io/github/forks/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution.svg)](https://github.com/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution/network/members)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution)
-[![GitHub contributors](https://img.shields.io/github/contributors/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution)](https://github.com/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution/graphs/contributors)
-[![Open Pull Requests](https://img.shields.io/github/issues-pr-raw/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution.svg)](https://github.com/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution/pulls)
-[![Activity](https://img.shields.io/github/last-commit/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution.svg)](https://github.com/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution/commits/main)
-[![YouTube Channel](https://img.shields.io/badge/Watch_us-Youtube-red)](https://www.youtube.com/@ninjascode509)
-[![Company Website](https://img.shields.io/badge/Visit_us-Website-blue)](https://enatega.com)
-[![Closed Issues](https://img.shields.io/github/issues-closed/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution?color=success)](https://github.com/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution/issues?q=is%3Aissue+is%3Aclosed)
-[![Closed Pull Requests](https://img.shields.io/badge/Closed%20Pull%20Requests-View%20on%20GitHub-blue.svg)](https://github.com/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution/pulls?q=is%3Apr+is%3Aclosed)
-
-</div>
-
-<div align="center">
-
-[![Static Badge](https://img.shields.io/badge/facebook-blue?logo=facebook&logoColor=Blue&color=%23fbfbfb)](https://www.facebook.com/enatega)
-[![Static Badge](https://img.shields.io/badge/Instagram-blue?logo=instagram&logoColor=D815BE&color=%23fcfcfc)](https://www.instagram.com/enatega.nb/)
-[![Static Badge](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=blue&color=%23fcfcfc)](https://twitter.com/EnategaA)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=darkblue&color=%23fcfcfc)](https://www.linkedin.com/company/14583783/)
-
-</div>
-
-<div align="center">
-
-  <a href="https://www.youtube.com/watch?v=00voqzkFpHU">
-    <img src="./assets/Multi Service Solution.webp" alt="Demo video" style="border-radius: 6px; width: auto;">
-  </a>
+[![Static Badge](https://img.shields.io/badge/License-MIT-red)](./LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/coloredinnovator/Onitas-market-)](https://github.com/coloredinnovator/Onitas-market-/graphs/contributors)
 
 </div>
 
 <br>
 
-The Enatega Multi Vendor Delivery Management System is designed for businesses looking to deploy a complete, ready-to-use platform for running their online ordering and delivery operations. Whether it is food or grocery delivery, parcel logistics, home services, flowers, pharmacy orders, or other delivery-based businesses, Enatega can be adapted to your needs.
-Built with ease of use and intuitiveness in mind, the Enatega system supports multiple vendors and multiple service regions. With separate applications for customers, vendors and delivery agents, along with a powerful admin dashboard, Enatega enables you to launch and operate your own end-to-end ordering and delivery ecosystem without building everything from scratch.
+Onitas Market is a complete multivendor delivery management system designed for businesses looking to deploy a ready-to-use platform for online ordering and logistics. Whether it's food delivery, grocery delivery, parcel logistics, home services, pharmacy orders, or other delivery-based businesses, Onitas Market adapts to your needs.
 
-The solution is fully open source, but the backend and API are proprietary and can be licensed as part of a paid package.
-
+Built with scalability and ease of use in mind, the system supports multiple vendors and service regions. With dedicated applications for customers, vendors, delivery riders, and a comprehensive admin dashboard, Onitas Market enables you to launch and operate your own end-to-end ordering and delivery ecosystem.
 
 <!-- Add a horizontal rule for separation -->
 <hr/>
@@ -69,14 +28,8 @@ The solution is fully open source, but the backend and API are proprietary and c
 - [:wrench: Setup](#heading-3)
 - [:gear: Prerequisites](#heading-4)
 - [:computer: Technologies](#heading-5)
-- [:camera: Screenshots](#heading-6)
 - [:triangular_ruler: High Level Architecture](#heading-7)
 - [:page_with_curl: Documentation](#heading-8)
-- [:movie_camera: Demo Videos](#heading-14)
-- [:video_game: Demos](#heading-9)
-- [:busts_in_silhouette: Contributors](#heading-10)
-- [:warning: Disclaimer](#heading-12)
-- [:email: Contact Us](#heading-13)
 - [:computer: Project Setup Guide](#heading-15)
 
 <!-- Add a horizontal rule for separation -->
@@ -84,15 +37,14 @@ The solution is fully open source, but the backend and API are proprietary and c
 
 ## :question: What is included: <a id="heading-1"></a>
 
-Enatega provides a complete set of software components, including:
+Onitas Market provides a complete set of software components, including:
 
-- Enatega Multi Vendor Customer App
-- Enatega Multi Vendor Rider/Driver App
-- Enatega Multi Vendor Vendor/Store App
-- Customer Ordering Website
-- Admin Web Dashboard
-- API Server
-- Analytics Dashboard using Expo Amplitude
+- Customer Mobile App (React Native / Expo)
+- Rider / Driver Mobile App (React Native / Expo)
+- Vendor / Store Mobile App (React Native / Expo)
+- Customer Ordering Website (Next.js)
+- Admin Web Dashboard (Next.js)
+- Analytics Dashboard using Amplitude
 - Error monitoring and reporting with Sentry
 
 ## :fire: Features: <a id="heading-2"></a>
@@ -105,7 +57,7 @@ Enatega provides a complete set of software components, including:
 - Location-based vendor discovery on Maps and Home Screen
 - Multi-language support and customizable themes
 - Ratings and reviews for orders and service experiences
-- Vendor/service details including ratings, schedules, delivery timelines, offerings, location, minimum order or service amount, and more
+- Vendor/service details including ratings, schedules, delivery timelines, offerings, location, minimum order amount, and more
 - Payment integrations including PayPal and Stripe
 - Order and booking history with the ability to favorite vendors
 - Address management with Google Places suggestions and Maps integration
@@ -115,15 +67,9 @@ Enatega provides a complete set of software components, including:
 
 ## :repeat_one: Setup: <a id="heading-3"></a>
 
-As we've mentioned above, the solution includes five separate modules. To setup these modules, follow the steps below:
+The solution includes five separate modules. To set up these modules, follow the steps below:
 
-To run the module, you need to have nodejs installed on your machine. Once nodejs is installed, go to the directory and enter the following commands
-
-The required credentials and keys have been set already. You can setup your own keys and credentials
-
-The version of nodejs should be between 18 to 20 (with 16 as minor version and 0 as patch)
-
-[![Guide Badge](https://img.shields.io/badge/Do_with_guided_tutorial-blue?style=for-the-badge&logo=book-reader)](https://enatega.com/multi-vendor-doc/)
+You need to have Node.js installed on your machine (version 18–20). Once Node.js is installed, navigate to the directory and enter the following commands.
 
 ## :information_source: Prerequisites: <a id="heading-4"></a>
 
@@ -135,64 +81,24 @@ App Ids for Mobile App in app.json
 - iOS Client Id Google
 - Android Id Google
 - Amplitude Api Key
-- server url
+- Server URL
 
-Set credentials in API in file helpers/config.js and helpers/credentials.js
+Set credentials in environment files:
 
-- Email User Name
-- Password For Email
-- Mongo User
-- Mongo Password
-- Mongo DB Name
-- Reset Password Link
-- Admin User name
-- Admin Password
-- User Id
-- Name
-
-Set credentials in Admin Dashboard in file src/index.js
-
-- Firebase Api Key
-- Auth Domain
-- Database Url
-- Project Id
-- Storage Buck
-- Messaging Sender Id
-- App Id
-
-NOTE: Email provider has been only been tested for gmail accounts
+- Firebase configuration
+- Google Maps API Key
+- Sentry DSN
+- Server URLs (GraphQL, WebSocket, REST)
 
 ## :hammer_and_wrench: Technologies: <a id="heading-5"></a>
 
 |                                               Expo                                                |                                                   React-Navigation                                                   |                                                Apollo GraphQL                                                |                                               ReactJS                                                |                                                NodeJS                                                 |                                                 MongoDB                                                 |                                                   Firebase                                                   |
 | :-----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
-| <a href="https://expo.dev/"><img src="./assets/expoicon.png" alt="Enatega Logos" width="100"></a> | <a href="https://reactnavigation.org/"><img src="./assets/react-navigation.png" alt="Enatega Logos" width="100"></a> | <a href="https://www.apollographql.com/"><img src="./assets/apollo.png" alt="Enatega Logos" width="100"></a> | <a href="https://reactjs.org/"><img src="./assets/react-js.png" alt="Enatega Logos" width="100"></a> | <a href="https://nodejs.org/en/"><img src="./assets/node-js.png" alt="Enatega Logos" width="100"></a> | <a href="https://www.mongodb.com/"><img src="./assets/mongoDB.png" alt="Enatega Logos" width="100"></a> | <a href="https://firebase.google.com/"><img src="./assets/firebase.png" alt="Enatega Logos" width="100"></a> |
+| <a href="https://expo.dev/"><img src="./assets/expoicon.png" alt="Expo" width="100"></a> | <a href="https://reactnavigation.org/"><img src="./assets/react-navigation.png" alt="React Navigation" width="100"></a> | <a href="https://www.apollographql.com/"><img src="./assets/apollo.png" alt="Apollo" width="100"></a> | <a href="https://reactjs.org/"><img src="./assets/react-js.png" alt="React" width="100"></a> | <a href="https://nodejs.org/en/"><img src="./assets/node-js.png" alt="Node" width="100"></a> | <a href="https://www.mongodb.com/"><img src="./assets/mongoDB.png" alt="MongoDB" width="100"></a> | <a href="https://firebase.google.com/"><img src="./assets/firebase.png" alt="Firebase" width="100"></a> |
 
-|                                                 React Native                                                 |                                                       React Router                                                       |                                                GraphQL                                                |                                                ExpressJS                                                 |                                                   React Strap                                                    |                                                Amplitude                                                |
-| :----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
-| <a href="https://reactnative.dev/"><img src="./assets/react-native.png" alt="Enatega Logos" width="100"></a> | <a href="https://reactrouter.com/"><img src="./assets/react-router-svgrepo-com.png" alt="Enatega Logos" width="100"></a> | <a href="https://graphql.org/"><img src="./assets/graphQl-1.png" alt="Enatega Logos" width="100"></a> | <a href="https://expressjs.com/"><img src="./assets/express-js.png" alt="Enatega Logos" width="100"></a> | <a href="https://reactstrap.github.io/"><img src="./assets/React-strap.png" alt="Enatega Logos" width="100"></a> | <a href="https://amplitude.com/"><img src="./assets/amplitude.png" alt="Enatega Logos" width="100"></a> |
-
-## :framed_picture: Screenshots: <a id="heading-6"></a>
-
-|          Rider App           |
-| :--------------------------: |
-| ![](./assets/RiderApp.webp) |
-
-|               Store APP               |
-| :----------------------------------------: |
-| ![](./assets/StoreApps.webp) |
-
-|          Customer App           |
-| :-----------------------------: |
-| ![](./assets/CustomerApp.webp) |
-
-|           Customer Web            |
-| :-------------------------------: |
-| ![](./assets/customerWeb.webp) |
-
-|             Dashboard              |
-| :--------------------------------: |
-| ![](./assets/AdminDashboard.webp) |
+|                                                 React Native                                                 |                                                       React Router                                                       |                                                GraphQL                                                |                                                ExpressJS                                                 |                                                Amplitude                                                |
+| :----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+| <a href="https://reactnative.dev/"><img src="./assets/react-native.png" alt="React Native" width="100"></a> | <a href="https://reactrouter.com/"><img src="./assets/react-router-svgrepo-com.png" alt="React Router" width="100"></a> | <a href="https://graphql.org/"><img src="./assets/graphQl-1.png" alt="GraphQL" width="100"></a> | <a href="https://expressjs.com/"><img src="./assets/express-js.png" alt="Express" width="100"></a> | <a href="https://amplitude.com/"><img src="./assets/amplitude.png" alt="Amplitude" width="100"></a> |
 
 ## :wrench: High Level Architecture: <a id="heading-7"></a>
 
@@ -200,43 +106,17 @@ NOTE: Email provider has been only been tested for gmail accounts
 
 ## :book: Documentation <a id="heading-8"></a>
 
-Find the link for the complete documentation of the Enatega Multi Vendor Solution [here](https://enatega.com/multivendor-documentation/).
-
-## :tv: Demo Videos: <a id="heading-14"></a>
-
-|                                               Admin Dashboard Demo                                               |                                                 Mobile App Demo                                                  |
-| :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
-| <a href="https://www.youtube.com/watch?v=18d_POMa8B4"><img src="./assets/1111.webp" width="200" alt="Video"></a> | <a href="https://www.youtube.com/watch?v=ZOBW4kdCsD4"><img src="./assets/1111.webp" width="200" alt="Video"></a> |
-
-## :iphone: Demos: <a id="heading-9"></a>
-
-|                                                                                                                                               Customer App                                                                                                                                                |                                                                                                                                                   Rider App                                                                                                                                                    |                                                                                                                                                       Store App                                                                                                                                                        |                                                   Customer Web                                                   |                                                    Admin Dashboard                                                     |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-|                                                                                          <a href="#heading-9" style="pointer-events: none;"><img src="./assets/customer-app-logo.png" alt="Enatega Logos" width="180"></a>                                                                                           |                                                                                          <a href="#heading-9" style="pointer-events: none;"><img src="./assets/Rider-app-logo.png" alt="Enatega Logos" width="180"></a>                                                                                          |                                                                                            <a href="#heading-9" style="pointer-events: none;"><img src="./assets/Store-app-logo.png" alt="Enatega Logos" width="180"></a>                                                                                            | <a href="http://multivendor.enatega.com/"><img src="./assets/customer-app-logo.png" alt="Enatega Logos" width="180"></a> | <a href="http://multivendor-admin.enatega.com/"><img src="./assets/customer-app-logo.png" alt="Enatega Logos" width="180"></a> |
-| <a href="https://play.google.com/store/apps/details?id=com.enatega.multivendor"><img src="./assets/android_518705.png" alt="Android Logo" width="25"></a> <a href="https://apps.apple.com/pk/app/enatega-multivendor/id1526488093"><img src="./assets/social_10096939.png" alt="iOS Logo" width="25"></a> | <a href="https://play.google.com/store/apps/details?id=com.enatega.multirider"><img src="./assets/android_518705.png" alt="Android Logo" width="25"></a> <a href="https://apps.apple.com/pk/app/enatega-mulitvendor-rider/id1526674511"><img src="./assets/social_10096939.png" alt="iOS Logo" width="25"></a> | <a href="https://play.google.com/store/apps/details?id=multivendor.enatega.restaurant"><img src="./assets/android_518705.png" alt="Android Logo" width="25"></a> <a href="https://apps.apple.com/pk/app/enatega-multivendor-restaurant/id1526672537"><img src="./assets/social_10096939.png" alt="iOS Logo" width="25"></a> |
-
-## :people_holding_hands: Contributors: <a id="heading-10"></a>
-
-<div align="center">
-<br>
-<a href="https://github.com/Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution" style="max-width: 50%; height: auto;" />
-</a>
-</div>
+See the [Project Setup Guide](#heading-15) below for detailed instructions on running each component.
 
 ## :warning: Disclaimer: <a id="heading-12"></a>
 
-The frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For further information, contact us on the channels provided below.
-
-## :mailbox_with_mail: Contact Us: <a id="heading-13"></a>
-
-[Check out the Product Page and Pricing and more for Enatega Multivendor Food Delivery Solution](https://enatega.com/?utm_source=github&utm_medium=referral&utm_campaign=github_guide&utm_id=12345678)
+The frontend source code for this solution is open source under the MIT license. The backend API is proprietary and requires a separate license agreement.
 
 ## :computer: Project Setup Guide <a id="heading-15"></a>
 
-This section provides detailed instructions for setting up and running each component of the Enatega Multi-vendor Food Delivery Solution.
+This section provides detailed instructions for setting up and running each component of the Onitas Market platform.
 
-### Enatega Admin Dashboard (Next.js)
+### Admin Dashboard (Next.js)
 
 The admin dashboard allows you to manage restaurants, orders, riders, and more.
 
@@ -251,11 +131,11 @@ npm install
 npm run dev
 ```
 
-After running these commands, open your browser and navigate to [http://localhost:3000](http://localhost:3000) to access the admin dashboard. You can also CTRL+click on the localhost link that appears in your terminal.
+After running these commands, open your browser and navigate to [http://localhost:3000](http://localhost:3000) to access the admin dashboard.
 
-### Enatega Customer Web (React.js)
+### Customer Web (Next.js)
 
-The customer web application allows users to browse restaurants and place orders through a web browser.
+The customer web application allows users to browse vendors and place orders through a web browser.
 
 ```bash
 # Navigate to the customer web directory
@@ -265,14 +145,10 @@ cd enatega-multivendor-web
 npm install
 
 # Start the development server
-npm start
+npm run dev
 ```
 
-After running these commands, the application will be available at [http://localhost:3000](http://localhost:3000) in your web browser.
-
-### Enatega Customer App (React Native)
-
-The customer mobile application allows users to browse restaurants and place orders on their mobile devices.
+### Customer App (React Native / Expo)
 
 ```bash
 # Navigate to the customer app directory
@@ -283,20 +159,9 @@ npm install
 
 # Start the Expo development server
 npx expo start -c
-# OR
-npm start -c
 ```
 
-#### Testing on a Physical Device with Expo Go
-
-1. Press `s` in the terminal to switch to Expo Go mode
-2. Scan the QR code displayed in the terminal:
-   - Android: Open the Expo Go app and scan the QR code
-   - iOS: Use the device's camera app to scan the QR code
-
-### Enatega Rider App (React Native)
-
-The rider app allows delivery personnel to manage and complete deliveries.
+### Rider App (React Native / Expo)
 
 ```bash
 # Navigate to the rider app directory
@@ -307,89 +172,30 @@ npm install
 
 # Start the Expo development server
 npx expo start -c
-# OR
-npm start -c
 ```
 
-#### Testing on a Physical Device with Expo Go
-
-1. Press `s` in the terminal to switch to Expo Go mode
-2. Scan the QR code displayed in the terminal:
-   - Android: Open the Expo Go app and scan the QR code
-   - iOS: Use the device's camera app to scan the QR code
-
-### Enatega Restaurant App (React Native)
-
-The restaurant app allows restaurant owners to manage orders and their menu.
+### Store / Vendor App (React Native / Expo)
 
 ```bash
-# Navigate to the restaurant app directory
-cd enatega-multivendor-restaurant
+# Navigate to the store app directory
+cd enatega-multivendor-store
 
 # Install dependencies
 npm install
 
 # Start the Expo development server
 npx expo start -c
-# OR
-npm start -c
 ```
 
-#### Testing on a Physical Device with Expo Go
+### Testing on a Physical Device (Expo Go)
 
 1. Press `s` in the terminal to switch to Expo Go mode
 2. Scan the QR code displayed in the terminal:
    - Android: Open the Expo Go app and scan the QR code
    - iOS: Use the device's camera app to scan the QR code
 
-### Building Development Versions
+---
 
-For all mobile apps (Customer, Rider, and Restaurant), you can create development builds using EAS Build.
+## License
 
-#### Configure EAS Build
-
-```bash
-# From the app directory (customer, rider, or restaurant)
-eas build:configure
-```
-
-Select your desired platform:
-- android
-- ios
-- all
-
-#### Build for Android
-
-```bash
-eas build --platform android --profile development
-```
-
-This will create an APK file that you can install directly on your Android device.
-
-#### Build for iOS
-
-```bash
-eas build --platform ios --profile development
-```
-
-For iOS simulator builds, modify the `eas.json` file to include:
-
-```json
-"development": {
-  "developmentClient": true,
-  "distribution": "internal",
-  "channel": "development",
-  "ios": {
-    "simulator": true
-  },
-  "android": {
-    "buildType": "apk"
-  }
-}
-```
-
-Then run:
-
-```bash
-eas build --platform ios --profile development
-```
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.

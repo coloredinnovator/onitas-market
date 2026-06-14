@@ -14,7 +14,7 @@ updates:
     schedule:
       interval: "weekly"
   - package-ecosystem: "npm" # See documentation for possible values
-    directory: "/enatega-multivendor-restaurant" # Location of package manifests
+    directory: "/enatega-multivendor-store" # Location of package manifests
     schedule:
       interval: "weekly"
   - package-ecosystem: "npm" # See documentation for possible values

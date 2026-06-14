@@ -36,9 +36,8 @@ const nextConfig = {
           {
             key: "Content-Security-Policy",
             value:
-              "upgrade-insecure-requests; media-src 'self' https://*.amazonaws.com https://*.s3.amazonaws.com data: blob:",
+              "upgrade-insecure-requests; media-src 'self' https://*.amazonaws.com https://*.s3.amazonaws.com https://assets.enatega.com data: blob:",
           },
-          // Optional: Add other security headers
           {
             key: "Strict-Transport-Security",
             value: "max-age=31536000; includeSubDomains",
@@ -54,12 +53,6 @@ const nextConfig = {
           {
             key: "Referrer-Policy",
             value: "strict-origin-when-cross-origin",
-          },
-          {
-            key: "Content-Security-Policy",
-            value:
-              "media-src 'self' https://*.amazonaws.com https://*.s3.amazonaws.com https://assets.enatega.com data: blob:",
-          },
         ],
       },
     ];

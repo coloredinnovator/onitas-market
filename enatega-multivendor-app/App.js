@@ -45,7 +45,7 @@ import * as Clarity from '@microsoft/react-native-clarity';
 // LogBox.ignoreAllLogs() // Ignore all log notifications
 
 if (!__DEV__) {
-  Clarity.initialize('mcdyi6urgs', {
+  Clarity.initialize('YOUR_CLARITY_PROJECT_ID', {
     logLevel: Clarity.LogLevel.None
   })
 }

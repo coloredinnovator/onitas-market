@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Enatega Multi",
-    "scheme": "enategamultivendor",
+    "name": "Onitas Market",
+    "scheme": "onitasmarket",
     "version": "1.1.24",
-    "description": "Enatega is a starter kit food ordering app built in React Native using Expo for IOS and Android. It's made keeping good aesthetics in mind as well keeping the best coding practices in mind. Its fully customisable to easily help you in your next food delivery project. https://market.nativebase.io/view/react-native-food-delivery-backend-app",
-    "slug": "enategamultivendor",
-    "owner": "ninjas_code",
+    "description": "Onitas Market is a multivendor delivery platform built with React Native and Expo. It enables businesses to launch and manage online ordering and delivery operations across industries.",
+    "slug": "onitasmarket",
+    "owner": "coloredinnovator",
     "experiments": {
       "buildCacheProvider": "eas"
     },
@@ -42,7 +42,7 @@
       "usesAppleSignIn": true,
       "infoPlist": {
         "NSLocationWhenInUseUsageDescription": "Allow $(PRODUCT_NAME) to use location to determine the delivery address for your orders.",
-        "UIBackgroundModes": ["remote-notification", "remote-notification"],
+        "UIBackgroundModes": ["remote-notification"],
         "NSUserTrackingUsageDescription": "Allow this app to collect app-related data that can be used for tracking you or your device.",
         "CFBundleURLTypes": [
           {
@@ -57,7 +57,7 @@
       "color": "#90E36D",
       "icon": "./assets/not-icon.png",
       "androidMode": "default",
-      "androidCollapsedTitle": "Enatega Multivendor"
+      "androidCollapsedTitle": "Onitas Market"
     },
     "android": {
       "versionCode": 124,
@@ -105,7 +105,7 @@
       [
         "expo-updates",
         {
-          "username": "ninjas_code"
+          "username": "coloredinnovator"
         }
       ],
       [

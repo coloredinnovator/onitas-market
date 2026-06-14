@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Enatega Multivendor Rider",
-    "description": "Enatega is a starter kit food ordering app built in React Native using Expo for IOS and Android. It's made keeping good aesthetics in mind as well keeping the best coding practices in mind. Its fully customisable to easily help you in your next food delivery project. https://market.nativebase.io/view/react-native-food-delivery-backend-app",
+    "name": "Onitas Market Rider",
+    "description": "Onitas Market Rider app enables delivery personnel to manage and complete deliveries in real-time.",
     "version": "1.1.83",
     "slug": "food-delivery-rider-multivendor",
     "orientation": "portrait",
@@ -22,8 +22,8 @@
       [
         "@sentry/react-native/expo",
         {
-          "organization": "ninjas-code",
-          "project": "enatega-rider-app",
+          "organization": "onitas-market",
+          "project": "onitas-rider-app",
           "url": "https://sentry.io/"
         }
       ],
